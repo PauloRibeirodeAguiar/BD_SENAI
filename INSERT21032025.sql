@@ -26,3 +26,6 @@ VALUES
 ('Camila Oliveira', 3400.00, 'F', 3),
 ('Leandro Mendes', 3200.00, 'M', 1),
 ('Aline Santos', 3500.00, 'F', 2);
+/*
+    Inserts banco 
+*/
